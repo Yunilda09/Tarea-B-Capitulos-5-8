@@ -1,0 +1,5 @@
+C:\Users\usario\Desktop\Tarea B\Capitulo 6\JaggedFunciones\JaggedFunciones\obj\Debug\net6.0\JaggedFunciones.csproj.AssemblyReference.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 6\JaggedFunciones\JaggedFunciones\obj\Debug\net6.0\JaggedFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usario\Desktop\Tarea B\Capitulo 6\JaggedFunciones\JaggedFunciones\obj\Debug\net6.0\JaggedFunciones.AssemblyInfoInputs.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 6\JaggedFunciones\JaggedFunciones\obj\Debug\net6.0\JaggedFunciones.AssemblyInfo.cs
+C:\Users\usario\Desktop\Tarea B\Capitulo 6\JaggedFunciones\JaggedFunciones\obj\Debug\net6.0\JaggedFunciones.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\Ejemplo_1_cap7.csproj.AssemblyReference.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\Ejemplo_1_cap7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\Ejemplo_1_cap7.AssemblyInfoInputs.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\Ejemplo_1_cap7.AssemblyInfo.cs
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\Ejemplo_1_cap7.csproj.CoreCompileInputs.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\bin\Debug\net6.0\Ejemplo_1_cap7.exe
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\bin\Debug\net6.0\Ejemplo_1_cap7.deps.json
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\bin\Debug\net6.0\Ejemplo_1_cap7.runtimeconfig.json
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\bin\Debug\net6.0\Ejemplo_1_cap7.dll
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\bin\Debug\net6.0\Ejemplo_1_cap7.pdb
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\Ejemplo_1_cap7.dll
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\refint\Ejemplo_1_cap7.dll
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\Ejemplo_1_cap7.pdb
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\Ejemplo_1_cap7.genruntimeconfig.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 7\Ejemplo_1_cap7\Ejemplo_1_cap7\obj\Debug\net6.0\ref\Ejemplo_1_cap7.dll
