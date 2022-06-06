@@ -1,0 +1,15 @@
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\bin\Debug\net6.0\Ejemplo_5_cap8.exe
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\bin\Debug\net6.0\Ejemplo_5_cap8.deps.json
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\bin\Debug\net6.0\Ejemplo_5_cap8.runtimeconfig.json
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\bin\Debug\net6.0\Ejemplo_5_cap8.dll
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\bin\Debug\net6.0\Ejemplo_5_cap8.pdb
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\Ejemplo_5_cap8.csproj.AssemblyReference.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\Ejemplo_5_cap8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\Ejemplo_5_cap8.AssemblyInfoInputs.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\Ejemplo_5_cap8.AssemblyInfo.cs
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\Ejemplo_5_cap8.csproj.CoreCompileInputs.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\Ejemplo_5_cap8.dll
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\refint\Ejemplo_5_cap8.dll
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\Ejemplo_5_cap8.pdb
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\Ejemplo_5_cap8.genruntimeconfig.cache
+C:\Users\usario\Desktop\Tarea B\Capitulo 8\Ejemplo_5_cap8\Ejemplo_5_cap8\obj\Debug\net6.0\ref\Ejemplo_5_cap8.dll
